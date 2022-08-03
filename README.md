@@ -1,2 +1,2 @@
 # lebanonskates
-website for all skaters
+A website for all skating lovers!
